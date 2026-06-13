@@ -1,0 +1,4 @@
+train: C:\Users\gomez\OneDrive\Escritorio\Aprendizaje profundo\yolo_ccpd\dataset\images\train
+val: C:\Users\gomez\OneDrive\Escritorio\Aprendizaje profundo\yolo_ccpd\dataset\images\val
+nc: 1
+names: ['placa']
