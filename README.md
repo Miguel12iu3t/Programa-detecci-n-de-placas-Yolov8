@@ -1,3 +1,6 @@
+#Descargar Dataset CCPD2019:
+link: https://www.kaggle.com/datasets/binh234/ccpd2019
+
 # YOLO CCPD Detector
 
 Versión independiente de detección de placas con YOLO usando el dataset CCPD2019.
